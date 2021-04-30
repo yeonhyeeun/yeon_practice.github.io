@@ -1,5 +1,8 @@
 # yeonhyeeun.github.io
-
+---
+title : first page
+permalink : /first page 
+---
 hello  
 
 
